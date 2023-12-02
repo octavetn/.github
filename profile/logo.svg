@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800mm"
+   height="200mm"
+   viewBox="0 0 800 200"
+   version="1.1"
+   id="svg1291"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1288" />
+  <g
+     id="layer1">
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g58"
+       transform="matrix(0.74362858,0,0,0.74362858,-13.726327,-22.549644)">
+      <g
+         transform="matrix(0.06386644,0,0,0.06386644,36.559097,-66.193092)"
+         id="logo_layer">
+        <path
+           id="path31"
+           style="stroke-dasharray:12920, 12922;stroke-dashoffset:0;fill:#444444;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 2051,2941 c 0,366 -297,668 -664,668 -363,0 -660,-302 -660,-668 0,-369 297,-667 660,-667 367,0 664,298 664,667 z M 1387,1547 c 764.9944,13.6874 1391,640.3181 1391,1398 0,770.9993 -623,1391 -1391,1391 C 619,4336 0,3716 0,2945 0,2174 619.12286,1533.261 1387,1547 Z"
+           class="fil1" />
+        <path
+           id="path33"
+           style="stroke-dasharray:12790, 12792;stroke-dashoffset:0;fill:#444444;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 14611,4309 h 1728 v -597 h -998 v -512 h 883 v -616 h -883 v -456 h 998 v -605 h -1728 z"
+           class="fil2" />
+        <path
+           id="path35"
+           style="stroke-dasharray:11442, 11444;stroke-dashoffset:1525;fill:#ff9900;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 13565,1523 -735,1586 -730,-1586 h -735 l 1298,2789 h 334 l 1295,-2789 z"
+           class="fil2" />
+        <path
+           id="path37"
+           style="stroke-dasharray:9956, 9958;stroke-dashoffset:9957;fill:#444444;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 6181,2250 h 723 v 2059 h 731 V 2250 h 738 V 1523 H 6181 Z"
+           class="fil2" />
+        <path
+           id="path39"
+           style="stroke-dasharray:11106, 11108;stroke-dashoffset:11107;fill:#444444;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 5713,1928 c -252,-252 -597,-405 -979,-405 -767,0 -1390,624 -1390,1391 0,768 623,1391 1390,1391 386,0 735,-159 987,-412 l -519,-511 c -115,118 -279,185 -468,185 -378,0 -652,-274 -652,-653 0,-378 274,-653 652,-653 189,0 353,67 468,182 z"
+           class="fil2" />
+        <path
+           id="path41"
+           style="stroke-dasharray:11438, 11440;stroke-dashoffset:11439;fill:#ff9900;fill-opacity:1"
+           transform="translate(0,696.27066)"
+           d="m 9359,4312 734,-1585 731,1585 h 734 L 10260,1523 H 9926 L 8632,4312 Z"
+           class="fil2" />
+      </g>
+    </g>
+  </g>
+</svg>

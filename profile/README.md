@@ -1,8 +1,10 @@
 # Welcome to OCTAVE
 
+![OCTAVE](./logo.svg)
+
 ## About Us
 
-OCTAVE is a digital company based in Tunisia, founded by [@chokri](https://github.com/chokri). 
+OCTAVE is a digital company based in Tunisia, founded by [@chokri](https://github.com/chokri).
 We are passionate about technology and dedicated to providing innovative solutions.
 
 ## Our Mission
@@ -15,7 +17,7 @@ At OCTAVE, we strive to empower developers with valuable insights, tools, and re
 - Python / Node.js / TypeScript Development
 - PostgreSQL / MySQL / Maria DB / Mongo DB
 - GNU Linux / Docker / Ansible / Terraform
-- Agile Scrum  
+- Agile Scrum
 
 ## Connect With Us
 
