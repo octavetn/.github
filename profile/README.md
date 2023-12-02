@@ -1,6 +1,6 @@
 # Welcome to OCTAVE
 
-![OCTAVE](./logo.svg)
+![OCTAVE](https://raw.githubusercontent.com/octavetn/.github/main/profile/logo.svg)
 
 ## About Us
 
