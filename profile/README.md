@@ -14,10 +14,10 @@ At OCTAVE, we strive to empower developers with valuable insights, tools, and re
 ## Technologies We Love
 
 - AWS / GCP / Azure Cloud
-- Python / Node.js / TypeScript Development
-- PostgreSQL / MySQL / Maria DB / Mongo DB
-- GNU Linux / Docker / Ansible / Terraform
-- Agile Scrum
+- Python / Node.js / TypeScript / Rust / Java / ...
+- PostgreSQL / MySQL / Maria DB / Mongo DB / SQL Server
+- GNU Linux / Kubernetes / Docker / Ansible / Terraform
+- Agile Scrum / Github Projects / Jira
 
 ## Connect With Us
 
