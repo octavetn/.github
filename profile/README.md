@@ -30,7 +30,7 @@ Stay updated on our activities and engage with us on social media.
 
 For inquiries, partnerships, or collaborations, feel free to reach out:
 
-- Email: contact[AT]octave [DOT] tn
+- Email: contact[AT]octave[DOT]tn
 
 Thank you for being a part of the OCTAVE community!
 
